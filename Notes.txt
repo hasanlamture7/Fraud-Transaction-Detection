@@ -1,0 +1,5 @@
+Fraud Detection can be identified by using two methods 1.Rule Based Model 2.Machine Learning 
+In this projects we are going to use Machine Learning 
+Model Identifies using various feature like Date,Transaction Number,Time ,Location,amount,etc.
+we have to combine the this features and create a another feature which finds the patterns in historcal data 
+which finds patterns in data
